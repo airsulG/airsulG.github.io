@@ -309,7 +309,7 @@
     
         <!-- Paradox Header -->
         <!-- Daily pic -->
-<div class="mdl-card mdl-shadow--2dp daily-pic mdl-cell mdl-cell--8-col index-top-block">
+<div class="mdl-card mdl-shadow--1dp daily-pic mdl-cell mdl-cell--8-col index-top-block">
 
     <!-- Pic & Slogan -->
     <div class="mdl-card__media mdl-color-text--grey-50" style="background-image:url(/img/daily_pic.png)">
@@ -335,7 +335,7 @@
 </div>
 
         <!-- Blog info -->
-<div class="mdl-card mdl-shadow--2dp something-else mdl-cell mdl-cell--8-col mdl-cell--4-col-desktop index-top-block">
+<div class="mdl-card mdl-shadow--1dp something-else mdl-cell mdl-cell--8-col mdl-cell--4-col-desktop index-top-block">
 
     <!-- Search -->
     
@@ -428,6 +428,12 @@
             
 
             
+                <a class="post_share-link" href="http://connect.qq.com/widget/shareqq/index.html?site=灵药的私房相册&title=灵药的私房相册&summary=&pics=http://yoursite.com/img/favicon.png&url=http://yoursite.com" target="_blank">
+                    <li class="mdl-menu__item">
+                        分享到 QQ
+                    </li>
+                </a>
+            
 
             
         </ul>
@@ -445,7 +451,7 @@
         
             
                 <!-- Paradox Thumbnail -->
-                <div class="post_entry-module mdl-card mdl-shadow--2dp mdl-cell mdl-cell--12-col fade out">
+                <div class="post_entry-module mdl-card mdl-shadow--1dp mdl-cell mdl-cell--12-col fade out">
     <!-- Post Thumbnail -->
     
         
@@ -507,10 +513,10 @@
 
     var locatePost = $('.locate-thumbnail-symbol').next();
     for(var i = 0; i < 10; i++) {
-        randomNum = Math.floor(Math.random() * 19 + 1);
+        randomNum = Math.floor(Math.random() * 20 + 1);
 
         locatePost.children('.post_thumbnail-random').attr('id', 'random_thumbnail-'+randomNum);
-        locatePost.children('.post_thumbnail-random').attr('data-original', '/img/random/material-' + randomNum + '.png');
+        locatePost.children('.post_thumbnail-random').attr('data-original', 'https://airsulg-1256232857.cos.ap-shanghai.myqcloud.com/%E7%95%8C%E9%9D%A2%E9%85%8D%E7%BD%AErandom/asset-' + randomNum + '.png');
     $('.post_thumbnail-random').addClass('lazy');
 
         locatePost = locatePost.next();
