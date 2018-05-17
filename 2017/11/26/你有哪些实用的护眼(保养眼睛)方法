@@ -45,7 +45,7 @@
     
     <title>
         
-            归档: 2018 | 
+            你有哪些实用的护眼方法？ | 
         
         明眸社区
     </title>
@@ -217,7 +217,7 @@
     <!-- WebAPP Icons -->
     <meta name="mobile-web-app-capable" content="yes">
     <meta name="application-name" content="明眸社区">
-    <meta name="msapplication-starturl" content="http://yoursite.com/archives/2018/">
+    <meta name="msapplication-starturl" content="http://yoursite.com/2017/11/26/你有哪些实用的护眼(保养眼睛)方法?（丁香医生）/">
     <meta name="msapplication-navbutton-color" content="#3FBD66">
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-title" content="明眸社区">
@@ -232,13 +232,16 @@
     
 
     <!-- The Open Graph protocol -->
-    <meta property="og:url" content="http://yoursite.com/archives/2018/">
+    <meta property="og:url" content="http://yoursite.com/2017/11/26/你有哪些实用的护眼(保养眼睛)方法?（丁香医生）/">
     <meta property="og:type" content="blog">
-    <meta property="og:title" content="归档: 2018 | 明眸社区">
+    <meta property="og:title" content="你有哪些实用的护眼方法？ | 明眸社区">
     <meta property="og:image" content="https://airsulg-1256232857.cossh.myqcloud.com/明眸/daily_pic.jpg">
     <meta property="og:description" content="">
     
 
+    
+        <meta property="article:published_time" content="Sun Nov 26 2017 03:57:43 GMT+0800">
+        <meta property="article:modified_time" content="Fri May 18 2018 01:16:10 GMT+0800">
     
 
     <!-- The Twitter Card protocol -->
@@ -246,13 +249,43 @@
 
     <!-- Add canonical link for SEO -->
     
-        <link rel="canonical" href="http://yoursite.com/archives/2018/index.html" />
+        <link rel="canonical" href="http://yoursite.com/2017/11/26/你有哪些实用的护眼(保养眼睛)方法" />
     
 
     <!-- Structured-data for SEO -->
     
         
 
+
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "mainEntityOfPage": "http://yoursite.com/2017/11/26/你有哪些实用的护眼(保养眼睛)方法",
+    "headline": "你有哪些实用的护眼方法？",
+    "datePublished": "Sun Nov 26 2017 03:57:43 GMT+0800",
+    "dateModified": "Fri May 18 2018 01:16:10 GMT+0800",
+    "author": {
+        "@type": "Person",
+        "name": "明眸团队",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://airsulg-1256232857.cossh.myqcloud.com/明眸/文章/IMG_0162.JPG"
+        },
+        "description": "欢迎来到明眸社区，我们将为您提供完整的视力恢复服务👩🏻‍🔬"
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "明眸社区",
+        "logo": {
+            "@type":"ImageObject",
+            "url": "https://airsulg-1256232857.cossh.myqcloud.com/明眸/daily_pic.jpg"
+        }
+    },
+    "keywords": "",
+    "description": "",
+}
+</script>
 
 
     
@@ -294,160 +327,276 @@
                         </button>
                     
 
-                    <!-- Index Module -->
-<div class="material-index mdl-grid">
-    
-    <div class="locate-thumbnail-symbol"></div>
+                    <!-- Post TOC -->
 
-    <!-- Pin on top -->
+    
+    <!-- Back Button -->
+    <!--
+    <div class="material-back" id="backhome-div" tabindex="0">
+        <a class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--icon"
+           href="#" onclick="window.history.back();return false;"
+           target="_self"
+           role="button"
+           data-upgraded=",MaterialButton,MaterialRipple">
+            <i class="material-icons" role="presentation">arrow_back</i>
+            <span class="mdl-button__ripple-container">
+                <span class="mdl-ripple"></span>
+            </span>
+        </a>
+    </div>
+    -->
+
+
+    <!-- Left aligned menu below button -->
+    
     
 
-    <!-- Normal Post -->
-    
-        
-            
-                <!-- Paradox Thumbnail -->
-                <div class="post_entry-module mdl-card mdl-shadow--1dp mdl-cell mdl-cell--12-col fade out">
-    <!-- Post Thumbnail -->
+
+
+
+<!-- Layouts -->
+
+    <!-- Post Module -->
+    <div class="material-post_container">
+
+        <div class="material-post mdl-grid">
+            <div class="mdl-card mdl-shadow--4dp mdl-cell mdl-cell--12-col">
+
+                <!-- Post Header(Thumbnail & Title) -->
+                
+    <!-- Paradox Post Header -->
     
         
             <!-- Random Thumbnail -->
             <div class="post_thumbnail-random mdl-card__media mdl-color-text--grey-50">
-        
-    
+            <script type="text/ls-javascript" id="post-thumbnail-script">
+    var randomNum = Math.floor(Math.random() * 19 + 1);
 
-        <!-- Post Title -->
-        <p class="article-headline-p"><a href="/2018/01/16/近视能否通过戴低度数的眼镜缓慢恢复？/">近视能否通过戴低度数的眼镜缓慢恢复？</a></p>
-    </div>
-
-    <!-- Post Excerpt -->
-    <div class="mdl-color-text--grey-600 mdl-card__supporting-text post_entry-content">
-        
-            作者：良目视光链接：
-        
-        &nbsp;&nbsp;&nbsp;
-        <span>
-            <a href="/2018/01/16/近视能否通过戴低度数的眼镜缓慢恢复？/" target="_self">阅读全文</a>
-        </span>
-    </div>
-    <!-- Post_entry Info-->
-    <div id="post_entry-info">
-        <div id="post_entry-left-info" class="mdl-card__supporting-text meta mdl-color-text--grey-600 ">
-            <!-- Author Avatar -->
-            <div id="author-avatar">
-                <img src="https://airsulg-1256232857.cossh.myqcloud.com/明眸/文章/IMG_0162.JPG" width="44px" height="44px" alt="明眸团队's avatar">
-            </div>
-            <div>
-                <strong>明眸团队</strong>
-                <span>1月 16, 2018</span>
-            </div>
-        </div>
-        <div id="post_entry-right-info">
-          
-              <!-- Category -->
-              <span class="post_entry-category">
-                  <a class="post_category-link" href="/categories/近视治疗/">近视治疗</a>
-              </span>
-            
-
-            
-
-            
-
-            <!-- Post Views -->
-            <span class="post_entry-views">
-            </span>
-        </div>
-    </div>
-</div>
-
-            
-            
-        
-    
-        
-            
-                <!-- Paradox Thumbnail -->
-                <div class="post_entry-module mdl-card mdl-shadow--1dp mdl-cell mdl-cell--12-col fade out">
-    <!-- Post Thumbnail -->
-    
-        
-            <!-- Random Thumbnail -->
-            <div class="post_thumbnail-random mdl-card__media mdl-color-text--grey-50">
-        
-    
-
-        <!-- Post Title -->
-        <p class="article-headline-p"><a href="/2018/01/16/眼睛如此辛苦，怎么好好爱它？ /">眼睛如此辛苦，怎么好好爱它？</a></p>
-    </div>
-
-    <!-- Post Excerpt -->
-    <div class="mdl-color-text--grey-600 mdl-card__supporting-text post_entry-content">
-        
-            眼睛如此辛苦，怎么好好爱它？作者： 钱丽君 2015-08-18
-上班，对着电脑目不转睛，文件，报表一大堆；吃饭，盯着...
-        
-        &nbsp;&nbsp;&nbsp;
-        <span>
-            <a href="/2018/01/16/眼睛如此辛苦，怎么好好爱它？ /" target="_self">阅读全文</a>
-        </span>
-    </div>
-    <!-- Post_entry Info-->
-    <div id="post_entry-info">
-        <div id="post_entry-left-info" class="mdl-card__supporting-text meta mdl-color-text--grey-600 ">
-            <!-- Author Avatar -->
-            <div id="author-avatar">
-                <img src="https://airsulg-1256232857.cossh.myqcloud.com/明眸/文章/IMG_0162.JPG" width="44px" height="44px" alt="明眸团队's avatar">
-            </div>
-            <div>
-                <strong>明眸团队</strong>
-                <span>1月 16, 2018</span>
-            </div>
-        </div>
-        <div id="post_entry-right-info">
-          
-              <!-- Category -->
-              <span class="post_entry-category">
-                  <a class="post_category-link" href="/categories/护眼方法/">护眼方法</a>
-              </span>
-            
-
-            
-
-            
-
-            <!-- Post Views -->
-            <span class="post_entry-views">
-            </span>
-        </div>
-    </div>
-</div>
-
-            
-            
-        
-    
-
-    
-
-    
-        <script type="text/ls-javascript" id="thumbnail-script">
-    var randomNum;
-
-    var locatePost = $('.locate-thumbnail-symbol').next();
-    for(var i = 0; i < 10; i++) {
-        randomNum = Math.floor(Math.random() * 19 + 1);
-
-        locatePost.children('.post_thumbnail-random').attr('id', 'random_thumbnail-'+randomNum);
-        locatePost.children('.post_thumbnail-random').attr('data-original', 'https://airsulg-1256232857.cossh.myqcloud.com/明眸/random2/asset-' + randomNum + '.png');
+    $('.post_thumbnail-random').attr('data-original', 'https://airsulg-1256232857.cossh.myqcloud.com/明眸/random2/asset-' + randomNum + '.png');
     $('.post_thumbnail-random').addClass('lazy');
-
-        locatePost = locatePost.next();
-    }
 </script>
 
+        
+    
+            <p class="article-headline-p">
+                你有哪些实用的护眼方法？
+            </p>
+        </div>
+
+
+
+
+
+                
+                    <!-- Paradox Post Info -->
+                    <div class="mdl-color-text--grey-700 mdl-card__supporting-text meta">
+
+    <!-- Author Avatar -->
+    <div id="author-avatar">
+        <img src="https://airsulg-1256232857.cossh.myqcloud.com/明眸/文章/IMG_0162.JPG" width="44px" height="44px" alt="Author Avatar"/>
+    </div>
+    <!-- Author Name & Date -->
+    <div>
+        <strong>明眸团队</strong>
+        <span>11月 26, 2017</span>
+    </div>
+
+    <div class="section-spacer"></div>
+
+    <!-- Favorite -->
+    <!--
+        <button id="article-functions-like-button" class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--icon btn-like">
+            <i class="material-icons" role="presentation">favorite</i>
+            <span class="visuallyhidden">favorites</span>
+        </button>
+    -->
+
+    <!-- Qrcode -->
+    
+
+    <!-- Tags (bookmark) -->
+    
+
+    <!-- Share -->
+    
+        <button id="article-fuctions-share-button" class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--icon">
+    <i class="material-icons" role="presentation">share</i>
+    <span class="visuallyhidden">share</span>
+</button>
+<ul class="mdl-menu mdl-menu--bottom-right mdl-js-menu mdl-js-ripple-effect" for="article-fuctions-share-button">
+    
+
+    
+        
+            <!-- Busuanzi Views -->
+            <a class="post_share-link" href="#">
+                <li class="mdl-menu__item">
+                    <span id="busuanzi_container_page_pv">
+                        <span id="busuanzi_value_page_pv"></span>&nbsp;浏览量
+                    </span>
+                </li>
+            </a>
+        
+    
+
+    <!-- Share Weibo -->
+    
+        <a class="post_share-link" href="http://service.weibo.com/share/share.php?appkey=&title=你有哪些实用的护眼方法？&url=http://yoursite.com/2017/11/26/你有哪些实用的护眼(保养眼睛)方法&pic=http://yoursite.comhttps://airsulg-1256232857.cossh.myqcloud.com/明眸/daily_pic.jpg&searchPic=false&style=simple" target="_blank">
+            <li class="mdl-menu__item">
+                分享到微博
+            </li>
+        </a>
+    
+
+    <!-- Share Twitter -->
+    
+        <a class="post_share-link" href="https://twitter.com/intent/tweet?text=你有哪些实用的护眼方法？&url=http://yoursite.com/2017/11/26/你有哪些实用的护眼(保养眼睛)方法&via=明眸团队" target="_blank">
+            <li class="mdl-menu__item">
+                分享到 Twitter
+            </li>
+        </a>
+    
+
+    <!-- Share Facebook -->
+    
+        <a class="post_share-link" href="https://www.facebook.com/sharer/sharer.php?u=http://yoursite.com/2017/11/26/你有哪些实用的护眼(保养眼睛)方法" target="_blank">
+            <li class="mdl-menu__item">
+                分享到 Facebook
+            </li>
+        </a>
+    
+
+    <!-- Share Google+ -->
+    
+        <a class="post_share-link" href="https://plus.google.com/share?url=http://yoursite.com/2017/11/26/你有哪些实用的护眼(保养眼睛)方法" target="_blank">
+            <li class="mdl-menu__item">
+                分享到 Google+
+            </li>
+        </a>
+    
+
+    <!-- Share LinkedIn -->
+    
+
+    <!-- Share QQ -->
+    
+        <a class="post_share-link" href="http://connect.qq.com/widget/shareqq/index.html?site=明眸社区&title=你有哪些实用的护眼方法？&summary=&pics=http://yoursite.comhttps://airsulg-1256232857.cossh.myqcloud.com/明眸/daily_pic.jpg&url=http://yoursite.com/2017/11/26/你有哪些实用的护眼(保养眼睛)方法" target="_blank">
+            <li class="mdl-menu__item">
+                分享到 QQ
+            </li>
+        </a>
+    
+
+    <!-- Share Telegram -->
+    
+</ul>
+
     
 </div>
+
+                
+
+                <!-- Post Content -->
+                <div id="post-content" class="mdl-color-text--grey-700 mdl-card__supporting-text fade out">
+    
+        <p>首先注意，以下这些方法不管用：</p>
+<ol>
+<li>看各种绿色的东西<br> <br>听说把手机或电脑桌面换成绿色的，对眼睛好？<br> <br>比如这样：
+ </li>
+</ol>
+<p> <br>然而 X 1，只要你还盯着手机或电脑，换成什么颜色都没用。<br> <br>听说桌上放上绿色的画或植物，可以帮助眼睛喘口气？<br> <br>比如这样：
+ </p>
+<p> <br>看着有点晕……<br> <br>然而 X 2，只要你还是长时间盯着近处看，周围全是绿色也不管用。
+ </p>
+<ol>
+<li>转动眼球<br> <br>有人说转动眼球可以放松眼睛，比如这样：
+ </li>
+</ol>
+<p> <br>然而 X 3，如果在做这个自带节拍的动作时，你的眼睛仍然没有离开电脑、手机或还是一直盯着近处看，转多少圈也没用。<br> <br>关键不是转眼，而是让眼睛休息。
+ </p>
+<ol>
+<li>吃猪肝<br> <br>缺维生素 A 会得干眼病、夜盲症，而动物肝脏富含维生素 A 。所以有人认为多吃猪肝可以护眼。<br> <br>但是！注意了，丁香医生说但是了！<br> <br>第一，维生素 A 补太多并不好。<br> <br>我国居民膳食营养指南推荐的每日维生素 A 摄入量是这样的：
+ </li>
+</ol>
+<p> <br>经常吃动物肝脏，会导致维生素 A 补充过量，影响身体健康。<br> <br>第二，动物肝脏有重金属累积的风险，虽然它富含维生素 A，但并不是维生素 A 的唯一来源。<br> <br>维生素 A 的优质来源包括：<br> <br>鱼肝油、鱼卵、全奶、奶油、禽蛋类等；<br>深色蔬果，比如菠菜、莴笋叶、胡萝卜、豌豆苗、辣椒、橘子、柿子、芒果等（深色蔬菜富含类胡萝卜素，在体内可以转化成维生素 A 发挥作用）。<br> <br>所以，想通过补充维生素 A 来护眼，你有很多很多的选择。
+ </p>
+<ol>
+<li>吃枸杞<br> <br>还有人说吃枸杞明目，原因是枸杞中含有有益视力的叶黄素。<br> <br>但是！注意了，丁香医生又说但是了。<br> <br>第一，叶黄素作用有限。<br> <br>叶黄素只是对于预防和治疗「老年性黄斑退化」引起的视力下降与失明、白内障等眼部疾病才有一定作用。<br> <br>第二，枸杞通常都是作为一种调味料，使用量并不多，通过它能获得的叶黄素很有限。<br> <br>每天吃点儿深色蔬菜和水果，完全可以获得足够的叶黄素，何必单恋小小枸杞？
+ </li>
+</ol>
+<p> <br>总之，这些传说能「明目」的食物，喜欢吃的话，吃点儿也无妨。但如果只是想通过多吃某种食物就改善视力、缓解视疲劳，作用不大，也无法从根本上解决问题。<br> <br> <br>然后，请注意，以下这些方法管用！<br>在所有眼花缭乱的护眼方法里，丁香医生只喜欢两点：适度用眼、注意休息。
+ </p>
+<ol>
+<li>多眨眼<br> <br>正常情况下，每分钟的眨眼次数大约 15～20 次。如果长时间盯着电脑，眨眼次数会明显减少，记得提醒自己多眨眼。
+ </li>
+<li>多休息<br> <br>每隔一段时间（时长自己把握，最好不要超过 1 个小时）就看看远处，注意，这里强调的是「远处」两个字；<br>晚上保证有质量的睡眠。
+ </li>
+<li>调整电脑位置和屏幕显示<br> <br>电脑位置应该遵循下面的距离：
+ </li>
+</ol>
+<p> <br>屏幕显示：
+ </p>
+<ol>
+<li>热敷眼睛<br>用温水或热水弄湿毛巾，热敷眼睛，注意不要温度太高而烫着自己。
+ </li>
+<li>使用加湿器<br>秋冬空气干燥，可以加一台空气加湿器。
+ </li>
+<li>配一副合适的眼镜<br>感觉看不清楚的，一定要带上眼镜看，不要勉强用眼。
+ </li>
+<li>摘下隐形眼镜，让眼睛透透气<br>不要戴着隐形眼镜睡觉，平时也要偶尔也戴一下框架眼镜。
+ </li>
+<li>增加户外活动<br>生命在于运动
+ </li>
+<li>遵医嘱使用眼药水、人工泪液<br>关于眼药水的选择，可以看丁香医生之前的回答：<br>眼睛干涩，该怎么选择眼药水？ - 知乎<br> <br>如果各种方法都用过了，还是不能缓解眼干、疼痛，还是尽快去医院吧，毕竟眼睛是心灵窗口。折腾坏了的话：</li>
+</ol>
+<p> </p>
+
+        
+    
+
+    
+</div>
+
+
+                
+
+                <!-- Post Comments -->
+                
+                    
+                
+            </div>
+
+            <!-- Post Prev & Next Nav -->
+            <nav class="material-nav mdl-color-text--grey-50 mdl-cell mdl-cell--12-col">
+    <!-- Prev Nav -->
+    
+        <a href="/2017/12/16/近视的人如何改善视力？/" id="post_nav-newer" class="prev-content">
+            <button class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--icon mdl-color--white mdl-color-text--grey-900" role="presentation">
+                <i class="material-icons">arrow_back</i>
+            </button>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            新篇
+        </a>
+    
+
+    <!-- Section Spacer -->
+    <div class="section-spacer"></div>
+
+    <!-- Next Nav -->
+    
+        <a href="/2017/11/16/我近视度数并不高，有没有可以治愈的方法？/" id="post_nav-older" class="next-content">
+            旧篇
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <button class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--icon mdl-color--white mdl-color-text--grey-900" role="presentation">
+                <i class="material-icons">arrow_forward</i>
+            </button>
+        </a>
+    
+</nav>
+
+        </div>
+    </div>
+
 
 
                     
